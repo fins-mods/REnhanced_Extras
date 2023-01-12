@@ -1,4 +1,4 @@
-# REnhanced-Extras Modpack
+# REnhanced_Extras Modpack
 
 Some extra mods that didn't make the cut into [my vanilla-friendly QoL modpack](https://thunderstore.io/package/fin/REnhanced/).
 
@@ -39,7 +39,7 @@ Even though you could argue being able to visually see how many items each playe
 ## Known Issues
 
 None currently, if you run into anything please contact me on Discord either by DMs ([Fin#1337](https://discord.com/users/386945522608373785)) or by @mentioning me in the [Risk Of Rain 2 Modding](https://discord.com/invite/5MbXZvd) Discord server.
-Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced-Extras/issues/new) on GitHub but you'll definitely get a slower response.
+Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced_Extras/issues/new) on GitHub but you'll definitely get a slower response.
 
 ## Notes
 
@@ -47,4 +47,4 @@ Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced-Ext
 
 ---
 
-*psst, if you read this far you should like the modpack on [Thunderstore](https://thunderstore.io/package/fin/REnhanced/#), it really would mean a lot to me ♥*
+*psst, if you read this far you should like the modpack on [Thunderstore](https://thunderstore.io/package/fin/REnhanced_Extras/#), it really would mean a lot to me ♥*

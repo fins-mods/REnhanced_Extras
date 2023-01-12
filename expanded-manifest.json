@@ -1,7 +1,7 @@
 {
   "name": "REnhanced_Extras",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/fins-mods/REnhanced-Extras",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/fins-mods/REnhanced_Extras",
   "description": "An optional companion modpack for REnhanced with mods that didn't make the cut.",
   "dependencies": [
     "Lodington-Aerolt-4.0.6",
